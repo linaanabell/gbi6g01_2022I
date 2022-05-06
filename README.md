@@ -5,7 +5,7 @@
 - Ciudad
 - Carrera
 
-## CARACTERÍSTICAS DELL EQUIPO
+## CARACTERÍSTICAS DEL EQUIPO
 - Procesador: 
 
 ## PROGRAMAS UTILIZADOS 
