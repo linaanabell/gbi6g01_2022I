@@ -2,11 +2,14 @@
 
 # EXAMEN DE MEDIO SEMESTRE
 ## DATOS PERSONALES
-
+- Lina Iturralde
+- 22 años
+- Riobamba
 
 ## CARACTERÍSTICAS DEL EQUIPO
- 
+- Procesador: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz 1.19 GHz
 
 ## PROGRAMAS UTILIZADOS 
-
+ GitBash v2.36.0
+- Github Desktop 3.0.0
 
